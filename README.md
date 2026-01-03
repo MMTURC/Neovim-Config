@@ -8,10 +8,10 @@ HARPOON
 LSP
 TELESCOPE
 TREESITTER
-TOURBLE
+TROUBLE
 UNDOTREE
 
 
-Update: I don't really use neovim anymore so things might not be updated or whatever and I am not using any of the newer plugins. I also have no dotfiles because I refuse to waste my time configuring my desktop rather than actually programming. I have already wasted so much time language cycling. 
+Not updated anymore but its there if you want a simple config. Thats not as bloated and easy to understand. Some things may be deprecated or no longer maintained so do your research. 
 
 
